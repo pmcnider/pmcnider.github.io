@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Peyton</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<nav class="topnav">
+  <a class="topnav__name" id="site-name" href="#top">Peyton</a>
+  <ul class="topnav__links">
+    <li><a href="#career">Career</a></li>
+    <li><a href="#interesting">Things I find interesting</a></li>
+    <li><a href="#opinions">Opinions</a></li>
+    <li><a href="#life">My life</a></li>
+  </ul>
+</nav>
+
+<header class="hero" id="top">
+  <h1 class="hero__statement" id="hero-statement"></h1>
+  <div class="hero__index" id="hero-index"></div>
+</header>
+
+<main>
+  <section class="section" id="career">
+    <h2 class="section__heading">Career</h2>
+    <p class="section__intro">Roles and engagements, current and past.</p>
+    <div id="career-rows"></div>
+  </section>
+
+  <section class="section" id="interesting">
+    <h2 class="section__heading">Things I find interesting</h2>
+    <p class="section__intro">A running index of what's caught my attention lately.</p>
+    <div id="interesting-rows"></div>
+  </section>
+
+  <section class="section" id="opinions">
+    <h2 class="section__heading">Opinions</h2>
+    <p class="section__intro">Positions I'd defend. Click one to read it.</p>
+    <div id="opinions-rows"></div>
+  </section>
+
+  <section class="section" id="life">
+    <h2 class="section__heading">My life</h2>
+    <p class="section__intro">The less structured part.</p>
+    <div id="life-rows"></div>
+  </section>
+</main>
+
+<footer>
+  Built with a plain HTML/CSS/JS site — edit <code>content.js</code> to update anything above.
+</footer>
+
+<script src="content.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
