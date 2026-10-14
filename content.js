@@ -22,15 +22,12 @@ const CAREER = [
     start: "2025-03",
     end: "Present",
     summary: 
-      "- Built the recoveries business triage process to resolve data issues surfaced by internal clients migrating to new API endpoints; burned down 164 complex data issues over 90 days to achieve 100% client migration
-      - Manage relationships and drive engagement across 200 internal clients spanning risk & governance, metric reporting, and platform teams – serving as primary point of contact from requirements gathering through production cutover
-   - Collaborate with clients to define requirements and translate them into actionable migration roadmaps, partnering with product and tech teams to align technical delivery with program timelines
-  - Design and maintain reporting dashboards for program leadership, providing visibility into delivery status and driving cross-team accountability",
-    tags: ["deal-making", "government", "cross-border"],
+      "I help internal teams move to new data sources as our credit card platform is modernized. I serve as a contact for 180+ client teams, from gathering their needs to resolving issues, and I build processes and relationships that keep fixes moving.",
+    tags: [""],
   },
   {
-    role: "— replace me —",
-    org: "Example Employer",
+    role: "Sr. Associate",
+    org: "Data, Models, Decisioning & Credit - Card Risk",
     start: "2019-06",
     end: "2021-12",
     summary: "One or two sentences on what you actually did and what changed because of it. Specifics beat titles.",
