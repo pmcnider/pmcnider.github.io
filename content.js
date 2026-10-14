@@ -12,16 +12,20 @@
 
 const SITE = {
   name: "Peyton",
-  tagline: "I connect people and deals that wouldn't otherwise find each other — and I'm restless about everything else too.",
+  tagline: "Just a way to organize my thoughts and the rest of my life.",
 };
 
 const CAREER = [
   {
-    role: "Founder / Principal",
-    org: "Deal Facilitation Practice",
-    start: "2022-01",
+    role: "Sr. Program Manager",
+    org: "Capital One - Card Technology",
+    start: "2025-03",
     end: "Present",
-    summary: "Connect parties across concurrent engagements spanning government contracts and foreign operations — sourcing, structuring, and shepherding deals that need someone who can move between rooms most people can't.",
+    summary: 
+      "- Built the recoveries business triage process to resolve data issues surfaced by internal clients migrating to new API endpoints; burned down 164 complex data issues over 90 days to achieve 100% client migration
+      - Manage relationships and drive engagement across 200 internal clients spanning risk & governance, metric reporting, and platform teams – serving as primary point of contact from requirements gathering through production cutover
+   - Collaborate with clients to define requirements and translate them into actionable migration roadmaps, partnering with product and tech teams to align technical delivery with program timelines
+  - Design and maintain reporting dashboards for program leadership, providing visibility into delivery status and driving cross-team accountability",
     tags: ["deal-making", "government", "cross-border"],
   },
   {
