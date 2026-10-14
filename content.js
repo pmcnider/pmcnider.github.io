@@ -21,8 +21,7 @@ const CAREER = [
     org: "Capital One - Card Technology",
     start: "2025-03",
     end: "Present",
-    summary: 
-      "I help internal teams move to new data sources as our credit card platform is modernized. I serve as a contact for 180+ client teams, from gathering their needs to resolving issues, and I build processes and relationships that keep fixes moving.",
+    summary: "I help internal teams move to new data sources as our credit card platform is modernized. I serve as a contact for 180+ client teams, from gathering their needs to resolving issues, and I build processes and relationships that keep fixes moving.",
     tags: [""],
   },
   {
